@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Soccer Dates"
 date:   2015-07-11 11:34:20
-categories: jekyll
-author: Google Developers Group Managua
-image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
+categories: repo
+author: Dan Hodges
+image: ./img/SoccerDates.png
+repo: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
