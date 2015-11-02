@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Developers Group"
+title:  "My Journey as a Software Developer"
 date:   2015-10-11 04:34:20
 categories: GDG
 highlight: true
