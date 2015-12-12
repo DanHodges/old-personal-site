@@ -8,7 +8,7 @@ image: ./img/SoccerDates.png
 repo: true
 ---
 Soccer Dates is a scheduling app I built for my front-end capstone at Nashville Software School. This app was designed to solve a pain point I experienced as a soccer coach - the dredded scheduling meeting. 
-Soccer dates is a client side angular app that uses AngularJS, Google's Material Design, and Firebase Authentication and REST operations.
+Soccer dates is a client side angular app that uses AngularJS, Google's Material Design, and Firebase for Authentication and REST operations.
 
 <a href="https://github.com/DanHodges/SoccerDates/" target="_blank">View on GitHub</a>
 
