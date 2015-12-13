@@ -2,9 +2,7 @@
 title: Dan Hodges
 email: dhdgs690@gmai.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a recent graduate of Nashville Software School. After an intense six-month apprenticeship, I am seeking to join a solid team of software developers in the Nashville area.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.dan-hodges.com" # the base hostname & protocol for your site
 twitter_username: _DanHodges
@@ -27,13 +25,13 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: Home
-    link: www.myawesomelink.com
+    link: http://www.dan-hodges.com
   option2:
     name: Resume
     link: www.myawesomelink.com
   option3:
     name: GitHub
-    link: www.myawesomelink.com
+    link: https://github.com/DanHodges
   option4:
     name: About
     link: www.myawesomelink.com  
