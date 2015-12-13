@@ -28,13 +28,13 @@ more_vert:
     link: http://www.dan-hodges.com
   option2:
     name: Resume
-    link: www.myawesomelink.com
+    link: site/2015/12/12/resume.html
   option3:
     name: GitHub
     link: https://github.com/DanHodges
   option4:
     name: About
-    link: www.myawesomelink.com  
+    link: http://www.dan-hodges.com  
 
 disqus: false
 disqus_shortname: 'gdgmanagua'
