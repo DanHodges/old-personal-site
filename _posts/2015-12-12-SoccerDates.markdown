@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Soccer Dates"
-date:   2015-07-11 11:34:20
-categories: repo
+date:   2015-12-12 13:34:20
+categories: site
 author: Dan Hodges
 image: ./img/SoccerDates.png
 repo: true

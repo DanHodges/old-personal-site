@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Journey as a Software Developer"
-date:   2015-12-12 04:34:20
-categories: GDG
+date:   2015-12-12 13:34:21
+categories: site
 highlight: true
 image: ./img/mugshot.jpg
 display: true

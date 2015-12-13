@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Resume"
+date:   2015-12-12 13:34:20
+author: Dan Hodges
+categories: site
+repo: false
+display: false
+hide: true
+---
+
+Dan Hodges
+
+Nashville Software School, July 2015-Present
+Apprentice Developer
+Nashville Software school is a six-month bootcamp where students work on collaborative projects using the latest technologies to build software applications. After studying front-end development for three months, the July Cohort studied C#/.NET for three months.
+
+Nodevember, November 2015
+Event Volunteer
+Assisted speakers with audio/visual setup. Setup and tore down event. Stuffed registration bags.
+
+Trinity Christian Academy, August 2013 - May 2015
+
+Middle School and High School Computer Applications Teacher
+Created curriculums for eight grade and high school computer applications classes. Instructed classes of up to thirty students on various topics including Microsoft Office products, graphic design with Adobe Illustrator, web literacy, intro to Web Design with Codecademy, and intro to computer science with MIT Scratch.
+
+Assistant IT Coordinator
+Assisted teachers incorporating technology in the classroom. Configured and maintained various hardware. Served on the Technology Committee with fellow faculty and board members to meet with parter schools, conduct surveys, and strategically plan how to incorporate technology as a school.
+
+Head Middle School Soccer Coach
+Coached middle school boys and girls soccer teams. Scheduled games, communicated with parents, maintained fields, managed equipment, etc.
+
+Union University, December 2012
+Bachelor of Arts
+Major in Biblical Languages, Minor in Music Performance.

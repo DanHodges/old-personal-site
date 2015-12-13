@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Material Design Lite"
-date:   2015-09-11 13:34:20
-categories: Material
+title:  "(p)Intrest"
+date:   2015-12-12 13:34:20
+categories: site
 author: Byron Corrales
 image: ./img/nsspin3.png
 repo: true

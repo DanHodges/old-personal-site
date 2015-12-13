@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Try a Demo"
-date:   2015-08-11 09:34:20
-categories: mdl
+date:   2015-12-12 13:34:20
+categories: site
 author: Dan Hodges
 image: ./img/beertinder.jpeg
 repo: true
