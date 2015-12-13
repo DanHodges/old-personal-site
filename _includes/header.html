@@ -4,29 +4,16 @@
     <span class="mdl-layout-title">{{ site.title }}</span>
     <!-- Add spacer, to align navigation to the right -->
     <div class="mdl-layout-spacer"></div>
-    
-
-    <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable is-upgraded">
-      <div class="mdl-textfield__expandable-holder" >
-        <input class="mdl-textfield__input super-search__input" type="text" id="js-search__input" />
-      </div>
-    </div>
-
-    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="menu-lower-left">
-      <li><a href="http://dan-hodges.com" class="mdl-menu__item">Home</a></li>
-      <li><a href="http://dan-hodges.com/site/2015/12/12/my-journey.html" class="mdl-menu__item">On Entering the Community</a></li>
-      <li><a href="https://github.com/DanHodges" class="mdl-menu__item" target="_blank">Github</a></li>
-      <li><a href="https://drive.google.com/file/d/0B-L-WkpF_XXAdzF4NnlyeVhnZVk/view?usp=sharing" target="_blank" class="mdl-menu__item">Resume</a></li>
-    </ul>
   </div>
 </header>
 
 <div class="mdl-layout__drawer">
   <span class="mdl-layout-title">Menu</span>
   <nav class="mdl-navigation">
-  {% for option in site.more_vert %}
-  <a href="{{ option[1].link }}" class="mdl-navigation__link">{{ option[1].name }}</a>
-  {% endfor %}
+    <a href="http://dan-hodges.com" class="mdl-navigation__link">Home</a>
+    <a href="http://dan-hodges.com/site/2015/12/12/my-journey.html" class="mdl-navigation__link">On Entering the Community</a>
+    <a href="https://github.com/DanHodges" class="mdl-navigation__link" target="_blank">Github</a>
+    <a href="https://drive.google.com/file/d/0B-L-WkpF_XXAdzF4NnlyeVhnZVk/view?usp=sharing" target="_blank" class="mdl-navigation__link">Resume</a>
   </nav>
 </div>
 
