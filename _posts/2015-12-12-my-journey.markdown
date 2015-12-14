@@ -9,7 +9,7 @@ display: true
 ---
 Six months ago I moved to Nashville to enroll in NSS and start a new career as a software developer. I had spent fifteen years in Jackson, TN. Moving away was difficult, as was putting life on hold, living off savings, and getting used to life in Nashville. 
 
-I’ve always fit been able to connect with a wide array of people. I can speak duck season with rednecks, sports center with sports fans, and Plato with philosophers. Before my transition to NSS, however, computer nerds, seriously intimidated me. I was a code newbie that didn’t play video games, and hadn’t seen all the Star Wars movies.
+I’ve always fit been able to connect with a wide array of people. I can speak duck season with rednecks, sports center with sports fans, and Plato with philosophers. Before my transition to NSS, however, computer nerds seriously intimidated me. I was a code newbie that didn’t play video games, and hadn’t seen all the Star Wars movies.
 
 I imagined I would be quite the black sheep if I followed John Wark’s advice and went ‘networking’ at the local user groups. I was dead wrong. I belong, and I think you belong too. If you’re on the fence hopefully this post will help build your confidence.
 
